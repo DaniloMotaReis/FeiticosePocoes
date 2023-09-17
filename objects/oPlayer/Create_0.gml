@@ -13,6 +13,6 @@ move_spd_max = 3.0;
 acc = 0.3;
 dcc = 0.3;
 
-jump_height = 10;
+jump_height = 20;
 coyote_time_max = 10;
 coyote_time = 0;

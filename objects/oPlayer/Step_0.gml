@@ -20,9 +20,12 @@ var ground = place_meeting(x,y+1,oColisao);
 
 if(ground){
 	coyote_time = coyote_time_max;
+} else{
+	coyote_time--;
 }
 
 if(key_jump and coyote_time > 0) {
+	coyote_time = 0;
 	vspd = 0;
 	vspd-=jump_height;
 }
