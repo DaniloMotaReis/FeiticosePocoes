@@ -35,6 +35,7 @@
   },
   "resources": [
     {"id":{"name":"oColisao","path":"objects/oColisao/oColisao.yy",},},
+    {"id":{"name":"spr_playerp","path":"sprites/spr_playerp/spr_playerp.yy",},},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
     {"id":{"name":"sColisao","path":"sprites/sColisao/sColisao.yy",},},
     {"id":{"name":"sBackground","path":"sprites/sBackground/sBackground.yy",},},
