@@ -14,5 +14,9 @@
     {"name":"Shaders","order":4,"path":"folders/Shaders.yy",},
     {"name":"Sons","order":1,"path":"folders/Sons.yy",},
   ],
-  "ResourceOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"oColisao","order":1,"path":"objects/oColisao/oColisao.yy",},
+    {"name":"sColisao","order":2,"path":"sprites/sColisao/sColisao.yy",},
+    {"name":"sPlayer","order":1,"path":"sprites/sPlayer/sPlayer.yy",},
+  ],
 }
