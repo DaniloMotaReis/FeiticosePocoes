@@ -39,15 +39,8 @@
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
     {"id":{"name":"sColisao","path":"sprites/sColisao/sColisao.yy",},},
     {"id":{"name":"sBackground","path":"sprites/sBackground/sBackground.yy",},},
-    {"id":{"name":"spr_playerAT","path":"sprites/spr_playerAT/spr_playerAT.yy",},},
     {"id":{"name":"approach","path":"scripts/approach/approach.yy",},},
-<<<<<<< Updated upstream
     {"id":{"name":"sPlayerA","path":"sprites/sPlayerA/sPlayerA.yy",},},
-=======
-    {"id":{"name":"spr_playerA","path":"sprites/spr_playerA/spr_playerA.yy",},},
-    {"id":{"name":"spr_playerM","path":"sprites/spr_playerM/spr_playerM.yy",},},
-    {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},},
->>>>>>> Stashed changes
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [

@@ -18,14 +18,7 @@
     {"name":"oColisao","order":1,"path":"objects/oColisao/oColisao.yy",},
     {"name":"sPlayerP","order":3,"path":"sprites/sPlayerP/sPlayerP.yy",},
     {"name":"sColisao","order":2,"path":"sprites/sColisao/sColisao.yy",},
-    {"name":"spr_playerAT","order":5,"path":"sprites/spr_playerAT/spr_playerAT.yy",},
     {"name":"approach","order":1,"path":"scripts/approach/approach.yy",},
-<<<<<<< Updated upstream
     {"name":"sPlayerA","order":4,"path":"sprites/sPlayerA/sPlayerA.yy",},
-=======
-    {"name":"spr_playerA","order":4,"path":"sprites/spr_playerA/spr_playerA.yy",},
-    {"name":"spr_playerM","order":6,"path":"sprites/spr_playerM/spr_playerM.yy",},
-    {"name":"sPlayer","order":1,"path":"sprites/sPlayer/sPlayer.yy",},
->>>>>>> Stashed changes
   ],
 }
