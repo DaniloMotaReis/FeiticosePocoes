@@ -17,6 +17,7 @@
   "ResourceOrderSettings": [
     {"name":"oColisao","order":1,"path":"objects/oColisao/oColisao.yy",},
     {"name":"sColisao","order":2,"path":"sprites/sColisao/sColisao.yy",},
+    {"name":"approach","order":1,"path":"scripts/approach/approach.yy",},
     {"name":"sPlayer","order":1,"path":"sprites/sPlayer/sPlayer.yy",},
   ],
 }
