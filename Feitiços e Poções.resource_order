@@ -19,6 +19,7 @@
     {"name":"spr_playerp","order":3,"path":"sprites/spr_playerp/spr_playerp.yy",},
     {"name":"sColisao","order":2,"path":"sprites/sColisao/sColisao.yy",},
     {"name":"approach","order":1,"path":"scripts/approach/approach.yy",},
+    {"name":"spr_playerA","order":4,"path":"sprites/spr_playerA/spr_playerA.yy",},
     {"name":"sPlayer","order":1,"path":"sprites/sPlayer/sPlayer.yy",},
   ],
 }
