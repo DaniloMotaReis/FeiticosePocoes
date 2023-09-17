@@ -4,7 +4,7 @@ var key_right = keyboard_check(ord("D"));
 var move = key_right - key_left != 0;
 
 vspd+=grv;
-vspd = clamp(vspd, vspd_min, vspd_max);
+vspd = clamp(vspd,vspd_min,vspd_max);
 
 if(move){
 	move_dir = point_direction(0,0,key_right - key_left,0);
@@ -14,6 +14,3 @@ if(move){
 }
 
 hspd = lengthdir_x(move_spd,move_dir);
-
-x+=hspd;
-y+=vspd;
