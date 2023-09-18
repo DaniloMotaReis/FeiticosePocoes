@@ -1,6 +1,7 @@
 var key_left = keyboard_check(ord("A"));
 var key_right = keyboard_check(ord("D"));
 var key_jump = keyboard_check_pressed(vk_space);
+var key_shoot = keyboard_check(ord("E"));
 
 var move = key_right - key_left != 0;
 
@@ -36,6 +37,8 @@ if(key_left){
 } else if(key_right){
 	sprite_index=sPlayerA
 	image_xscale=2;
-}else{
+} else if(key_shoot){
+	sprite_index=sPlayerAT
+} else{
 	sprite_index=sPlayerP
 }
