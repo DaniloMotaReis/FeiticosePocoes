@@ -40,12 +40,17 @@
     {"id":{"name":"sPlayerP","path":"sprites/sPlayerP/sPlayerP.yy",},},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
     {"id":{"name":"sColisao","path":"sprites/sColisao/sColisao.yy",},},
+    {"id":{"name":"sInimigo","path":"sprites/sInimigo/sInimigo.yy",},},
     {"id":{"name":"sBackground","path":"sprites/sBackground/sBackground.yy",},},
     {"id":{"name":"approach","path":"scripts/approach/approach.yy",},},
     {"id":{"name":"sPlayerA","path":"sprites/sPlayerA/sPlayerA.yy",},},
     {"id":{"name":"sPomo","path":"sprites/sPomo/sPomo.yy",},},
     {"id":{"name":"sPlayerAT","path":"sprites/sPlayerAT/sPlayerAT.yy",},},
+<<<<<<< Updated upstream
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
+=======
+    {"id":{"name":"oInimigo","path":"objects/oInimigo/oInimigo.yy",},},
+>>>>>>> Stashed changes
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [
