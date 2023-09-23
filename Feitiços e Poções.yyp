@@ -44,18 +44,19 @@
     {"id":{"name":"sBackground","path":"sprites/sBackground/sBackground.yy",},},
     {"id":{"name":"approach","path":"scripts/approach/approach.yy",},},
     {"id":{"name":"sPlayerA","path":"sprites/sPlayerA/sPlayerA.yy",},},
-    {"id":{"name":"sPomo","path":"sprites/sPomo/sPomo.yy",},},
     {"id":{"name":"sPlayerAT","path":"sprites/sPlayerAT/sPlayerAT.yy",},},
+<<<<<<< HEAD
 <<<<<<< Updated upstream
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
 =======
     {"id":{"name":"oInimigo","path":"objects/oInimigo/oInimigo.yy",},},
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 93b99e5 (Merge branch 'main' of https://github.com/DaniloMotaReis/FeiticosePocoes)
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
-    {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
   ],
   "templateType": null,
   "TextureGroups": [

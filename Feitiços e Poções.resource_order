@@ -23,12 +23,14 @@
     {"name":"sInimigo","order":7,"path":"sprites/sInimigo/sInimigo.yy",},
     {"name":"approach","order":1,"path":"scripts/approach/approach.yy",},
     {"name":"sPlayerA","order":4,"path":"sprites/sPlayerA/sPlayerA.yy",},
-    {"name":"sPomo","order":7,"path":"sprites/sPomo/sPomo.yy",},
     {"name":"sPlayerAT","order":5,"path":"sprites/sPlayerAT/sPlayerAT.yy",},
+<<<<<<< HEAD
 <<<<<<< Updated upstream
     {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
 =======
     {"name":"oInimigo","order":2,"path":"objects/oInimigo/oInimigo.yy",},
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 93b99e5 (Merge branch 'main' of https://github.com/DaniloMotaReis/FeiticosePocoes)
   ],
 }
