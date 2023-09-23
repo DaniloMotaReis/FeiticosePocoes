@@ -16,6 +16,7 @@
   ],
   "ResourceOrderSettings": [
     {"name":"oColisao","order":1,"path":"objects/oColisao/oColisao.yy",},
+    {"name":"sVoldemort","order":7,"path":"sprites/sVoldemort/sVoldemort.yy",},
     {"name":"sPlayerM","order":6,"path":"sprites/sPlayerM/sPlayerM.yy",},
     {"name":"sPlayerP","order":3,"path":"sprites/sPlayerP/sPlayerP.yy",},
     {"name":"sColisao","order":2,"path":"sprites/sColisao/sColisao.yy",},
