@@ -1,6 +1,8 @@
 image_xscale=2;
 image_yscale=2;
 
+life = 3;
+
 hspd = 0;
 vspd = 0;
 vspd_min = -7;
