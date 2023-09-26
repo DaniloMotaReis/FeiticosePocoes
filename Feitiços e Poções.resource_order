@@ -24,6 +24,7 @@
     {"name":"sTiro","order":8,"path":"sprites/sTiro/sTiro.yy",},
     {"name":"Room3","order":2,"path":"rooms/Room3/Room3.yy",},
     {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
+    {"name":"oTiro","order":3,"path":"objects/oTiro/oTiro.yy",},
     {"name":"approach","order":1,"path":"scripts/approach/approach.yy",},
     {"name":"sPlayerA","order":4,"path":"sprites/sPlayerA/sPlayerA.yy",},
     {"name":"sPlayerAT","order":5,"path":"sprites/sPlayerAT/sPlayerAT.yy",},

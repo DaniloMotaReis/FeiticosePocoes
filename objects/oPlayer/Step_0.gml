@@ -5,8 +5,15 @@ var key_shoot = keyboard_check_pressed(ord("E"));
 
 var move = key_right - key_left != 0;
 
+var flipped = direction;
+var gun_x = (x+4) *(flipped);
+var _xx = x + lengthdir_x(15, image_angle);
+var y_offset = lengthdir_y(-20, image_angle);
+
+
 vspd+=grv;
 vspd = clamp(vspd,vspd_min,vspd_max);
+
 
 if(move){
 	move_dir = point_direction(0,0,key_right - key_left,0);
@@ -15,9 +22,11 @@ if(move){
 	move_spd = approach(move_spd,0,dcc);
 }
 
+
 hspd = lengthdir_x(move_spd,move_dir);
 
 var ground = place_meeting(x,y+1,oColisao);
+
 
 if(ground){
 	coyote_time = coyote_time_max;
@@ -25,10 +34,20 @@ if(ground){
 	coyote_time--;
 }
 
+
 if(key_jump and coyote_time > 0) {
 	coyote_time = 0;
 	vspd = 0;
 	vspd-=jump_height;
+}
+
+if(key_shoot){
+	sprite_index = sPlayerA;
+	with (instance_create_layer(_xx,y+10,"Shoot",oTiro)){
+		speed = 100;
+		direction = -180 + 90 * other.image_xscale;
+		image_angle = direction;
+	}
 }
 
 if(key_left){
@@ -37,8 +56,6 @@ if(key_left){
 } else if(key_right){
 	sprite_index=sPlayerA
 	image_xscale=2;
-} else if(key_shoot){
-	sprite_index=sPlayerAT
 } else{
 	sprite_index=sPlayerP
 }
