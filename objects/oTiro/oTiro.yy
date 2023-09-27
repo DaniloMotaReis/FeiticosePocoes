@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sTiro",
-    "path": "sprites/sTiro/sTiro.yy",
+    "name": "SHadoken",
+    "path": "sprites/SHadoken/SHadoken.yy",
   },
   "spriteMaskId": null,
   "visible": true,
