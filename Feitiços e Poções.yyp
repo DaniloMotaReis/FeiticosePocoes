@@ -34,6 +34,7 @@
     "IDEVersion": "2023.8.1.102",
   },
   "resources": [
+    {"id":{"name":"SHadoken","path":"sprites/SHadoken/SHadoken.yy",},},
     {"id":{"name":"oColisao","path":"objects/oColisao/oColisao.yy",},},
     {"id":{"name":"sVoldemort","path":"sprites/sVoldemort/sVoldemort.yy",},},
     {"id":{"name":"sPlayerM","path":"sprites/sPlayerM/sPlayerM.yy",},},
