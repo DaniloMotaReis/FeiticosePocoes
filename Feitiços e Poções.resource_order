@@ -15,6 +15,8 @@
     {"name":"Sons","order":1,"path":"folders/Sons.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"sprite_de_aranha112","order":12,"path":"sprites/sprite_de_aranha112/sprite_de_aranha112.yy",},
+    {"name":"SAranhaA","order":11,"path":"sprites/SAranhaA/SAranhaA.yy",},
     {"name":"SHadoken","order":9,"path":"sprites/SHadoken/SHadoken.yy",},
     {"name":"oColisao","order":1,"path":"objects/oColisao/oColisao.yy",},
     {"name":"sVoldemort","order":7,"path":"sprites/sVoldemort/sVoldemort.yy",},
