@@ -34,7 +34,8 @@
     "IDEVersion": "2023.8.1.102",
   },
   "resources": [
-    {"id":{"name":"sprite_de_aranha112","path":"sprites/sprite_de_aranha112/sprite_de_aranha112.yy",},},
+    {"id":{"name":"SAranhaMP","path":"sprites/SAranhaMP/SAranhaMP.yy",},},
+    {"id":{"name":"SAranhaME","path":"sprites/SAranhaME/SAranhaME.yy",},},
     {"id":{"name":"SAranhaA","path":"sprites/SAranhaA/SAranhaA.yy",},},
     {"id":{"name":"SHadoken","path":"sprites/SHadoken/SHadoken.yy",},},
     {"id":{"name":"oColisao","path":"objects/oColisao/oColisao.yy",},},
