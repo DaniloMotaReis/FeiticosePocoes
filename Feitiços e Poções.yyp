@@ -78,12 +78,16 @@
     {"id":{"name":"Tile_34","path":"sprites/Tile_34/Tile_34.yy",},},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
     {"id":{"name":"sColisao","path":"sprites/sColisao/sColisao.yy",},},
+<<<<<<< HEAD
+    {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"id":{"name":"pomo","path":"sprites/pomo/pomo.yy",},},
+=======
     {"id":{"name":"Tile_06","path":"sprites/Tile_06/Tile_06.yy",},},
     {"id":{"name":"Tile_03","path":"sprites/Tile_03/Tile_03.yy",},},
     {"id":{"name":"Tile_23","path":"sprites/Tile_23/Tile_23.yy",},},
     {"id":{"name":"Tile_29","path":"sprites/Tile_29/Tile_29.yy",},},
     {"id":{"name":"Tile_02","path":"sprites/Tile_02/Tile_02.yy",},},
+    {"id":{"name":"sTiro","path":"sprites/sTiro/sTiro.yy",},},
     {"id":{"name":"Tile_18","path":"sprites/Tile_18/Tile_18.yy",},},
     {"id":{"name":"Tile_25","path":"sprites/Tile_25/Tile_25.yy",},},
     {"id":{"name":"Tile_32","path":"sprites/Tile_32/Tile_32.yy",},},
@@ -95,6 +99,7 @@
     {"id":{"name":"Tile_54","path":"sprites/Tile_54/Tile_54.yy",},},
     {"id":{"name":"Tile_39","path":"sprites/Tile_39/Tile_39.yy",},},
     {"id":{"name":"Tile_07","path":"sprites/Tile_07/Tile_07.yy",},},
+    {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"id":{"name":"Tile_08","path":"sprites/Tile_08/Tile_08.yy",},},
     {"id":{"name":"oTiro","path":"objects/oTiro/oTiro.yy",},},
     {"id":{"name":"Tile_13","path":"sprites/Tile_13/Tile_13.yy",},},
@@ -103,10 +108,13 @@
     {"id":{"name":"Tile_27","path":"sprites/Tile_27/Tile_27.yy",},},
     {"id":{"name":"Tile_37","path":"sprites/Tile_37/Tile_37.yy",},},
     {"id":{"name":"SCobraA","path":"sprites/SCobraA/SCobraA.yy",},},
+>>>>>>> b221ca58cd8c7ef0a4b68d088725b65a2b643a7c
     {"id":{"name":"sBackground","path":"sprites/sBackground/sBackground.yy",},},
     {"id":{"name":"Tile_51","path":"sprites/Tile_51/Tile_51.yy",},},
     {"id":{"name":"approach","path":"scripts/approach/approach.yy",},},
     {"id":{"name":"sPlayerA","path":"sprites/sPlayerA/sPlayerA.yy",},},
+<<<<<<< HEAD
+=======
     {"id":{"name":"Tile_55","path":"sprites/Tile_55/Tile_55.yy",},},
     {"id":{"name":"Tile_41","path":"sprites/Tile_41/Tile_41.yy",},},
     {"id":{"name":"Tile_36","path":"sprites/Tile_36/Tile_36.yy",},},
@@ -115,9 +123,13 @@
     {"id":{"name":"Tile_09","path":"sprites/Tile_09/Tile_09.yy",},},
     {"id":{"name":"Tile_56","path":"sprites/Tile_56/Tile_56.yy",},},
     {"id":{"name":"Tile_43","path":"sprites/Tile_43/Tile_43.yy",},},
+>>>>>>> b221ca58cd8c7ef0a4b68d088725b65a2b643a7c
     {"id":{"name":"sPlayerAT","path":"sprites/sPlayerAT/sPlayerAT.yy",},},
+    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [
+    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"roomId":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
   ],
   "templateType": null,
