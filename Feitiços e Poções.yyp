@@ -115,11 +115,13 @@
     {"id":{"name":"Tile_56","path":"sprites/Tile_56/Tile_56.yy",},},
     {"id":{"name":"Tile_43","path":"sprites/Tile_43/Tile_43.yy",},},
     {"id":{"name":"sPlayerAT","path":"sprites/sPlayerAT/sPlayerAT.yy",},},
+    {"id":{"name":"sPomo","path":"sprites/sPomo/sPomo.yy",},},
+    {"id":{"name":"sPlayerAT","path":"sprites/sPlayerAT/sPlayerAT.yy",},},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
+    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [
     {"roomId":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
-    {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
   ],
   "templateType": null,
   "TextureGroups": [
