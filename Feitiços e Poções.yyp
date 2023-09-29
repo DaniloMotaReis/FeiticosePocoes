@@ -103,6 +103,7 @@
     {"id":{"name":"Tile_35","path":"sprites/Tile_35/Tile_35.yy",},},
     {"id":{"name":"Tile_27","path":"sprites/Tile_27/Tile_27.yy",},},
     {"id":{"name":"Tile_37","path":"sprites/Tile_37/Tile_37.yy",},},
+    {"id":{"name":"SCobraA","path":"sprites/SCobraA/SCobraA.yy",},},
     {"id":{"name":"sBackground","path":"sprites/sBackground/sBackground.yy",},},
     {"id":{"name":"Tile_51","path":"sprites/Tile_51/Tile_51.yy",},},
     {"id":{"name":"approach","path":"scripts/approach/approach.yy",},},

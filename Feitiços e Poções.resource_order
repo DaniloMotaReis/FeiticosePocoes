@@ -83,6 +83,7 @@
     {"name":"Tile_27","order":27,"path":"sprites/Tile_27/Tile_27.yy",},
     {"name":"Tile_37","order":37,"path":"sprites/Tile_37/Tile_37.yy",},
     {"name":"Tile_51","order":51,"path":"sprites/Tile_51/Tile_51.yy",},
+    {"name":"SCobraA","order":14,"path":"sprites/SCobraA/SCobraA.yy",},
     {"name":"approach","order":1,"path":"scripts/approach/approach.yy",},
     {"name":"sPlayerA","order":4,"path":"sprites/sPlayerA/sPlayerA.yy",},
     {"name":"Tile_55","order":55,"path":"sprites/Tile_55/Tile_55.yy",},
