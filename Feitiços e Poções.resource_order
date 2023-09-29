@@ -21,7 +21,6 @@
     {"name":"sColisao","order":2,"path":"sprites/sColisao/sColisao.yy",},
     {"name":"approach","order":1,"path":"scripts/approach/approach.yy",},
     {"name":"sPlayerA","order":4,"path":"sprites/sPlayerA/sPlayerA.yy",},
-    {"name":"sPomo","order":7,"path":"sprites/sPomo/sPomo.yy",},
     {"name":"sPlayerAT","order":5,"path":"sprites/sPlayerAT/sPlayerAT.yy",},
     {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
   ],
