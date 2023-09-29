@@ -728,9 +728,10 @@ ol {
 
 .footer-top-bg {
 	position: absolute;
-	left: -30px;
-	bottom: -85px;
+	left: -90px;
+	bottom: -35px;
 	z-index: 2;
+	max-width: 30%;
 }
 
 .footer-logo img {
