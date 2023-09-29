@@ -95,6 +95,5 @@
     {"name":"Tile_56","order":56,"path":"sprites/Tile_56/Tile_56.yy",},
     {"name":"Tile_43","order":43,"path":"sprites/Tile_43/Tile_43.yy",},
     {"name":"sPlayerAT","order":5,"path":"sprites/sPlayerAT/sPlayerAT.yy",},
-    {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
   ],
 }
