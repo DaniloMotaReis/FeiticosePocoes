@@ -78,6 +78,7 @@
     {"id":{"name":"Tile_34","path":"sprites/Tile_34/Tile_34.yy",},},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
     {"id":{"name":"sColisao","path":"sprites/sColisao/sColisao.yy",},},
+    {"id":{"name":"pomo","path":"sprites/pomo/pomo.yy",},},
     {"id":{"name":"Tile_06","path":"sprites/Tile_06/Tile_06.yy",},},
     {"id":{"name":"Tile_03","path":"sprites/Tile_03/Tile_03.yy",},},
     {"id":{"name":"Tile_23","path":"sprites/Tile_23/Tile_23.yy",},},
