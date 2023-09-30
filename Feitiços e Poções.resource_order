@@ -11,10 +11,10 @@
     {"name":"Objetos","order":7,"path":"folders/Objetos.yy",},
     {"name":"Particle Systems","order":12,"path":"folders/Particle Systems.yy",},
     {"name":"Scripts","order":3,"path":"folders/Scripts.yy",},
+    {"name":"player_scripts","order":2,"path":"folders/Scripts/player_scripts.yy",},
     {"name":"Shaders","order":4,"path":"folders/Shaders.yy",},
     {"name":"Sons","order":1,"path":"folders/Sons.yy",},
     {"name":"1 Tiles","order":14,"path":"folders/Sprites/1 Tiles.yy",},
-    {"name":"player_scripts","order":2,"path":"folders/Scripts/player_scripts.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"Tile_30","order":30,"path":"sprites/Tile_30/Tile_30.yy",},
