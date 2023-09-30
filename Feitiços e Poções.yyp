@@ -104,6 +104,7 @@
     {"id":{"name":"oTiro","path":"objects/oTiro/oTiro.yy",},},
     {"id":{"name":"Tile_13","path":"sprites/Tile_13/Tile_13.yy",},},
     {"id":{"name":"Tile_47","path":"sprites/Tile_47/Tile_47.yy",},},
+    {"id":{"name":"SPotion2","path":"sprites/SPotion2/SPotion2.yy",},},
     {"id":{"name":"Tile_35","path":"sprites/Tile_35/Tile_35.yy",},},
     {"id":{"name":"Tile_27","path":"sprites/Tile_27/Tile_27.yy",},},
     {"id":{"name":"Tile_37","path":"sprites/Tile_37/Tile_37.yy",},},

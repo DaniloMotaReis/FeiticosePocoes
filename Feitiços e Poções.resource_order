@@ -82,6 +82,7 @@
     {"name":"oTiro","order":3,"path":"objects/oTiro/oTiro.yy",},
     {"name":"Tile_13","order":13,"path":"sprites/Tile_13/Tile_13.yy",},
     {"name":"Tile_47","order":47,"path":"sprites/Tile_47/Tile_47.yy",},
+    {"name":"SPotion2","order":17,"path":"sprites/SPotion2/SPotion2.yy",},
     {"name":"Tile_35","order":35,"path":"sprites/Tile_35/Tile_35.yy",},
     {"name":"Tile_27","order":27,"path":"sprites/Tile_27/Tile_27.yy",},
     {"name":"Tile_37","order":37,"path":"sprites/Tile_37/Tile_37.yy",},
