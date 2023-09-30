@@ -29,7 +29,7 @@
     {"name":"SAranhaME","order":12,"path":"sprites/SAranhaME/SAranhaME.yy",},
     {"name":"SAranhaA","order":11,"path":"sprites/SAranhaA/SAranhaA.yy",},
     {"name":"Tile_26","order":26,"path":"sprites/Tile_26/Tile_26.yy",},
-    {"name":"potion1","order":16,"path":"sprites/potion1/potion1.yy",},
+    {"name":"SPotion1","order":16,"path":"sprites/SPotion1/SPotion1.yy",},
     {"name":"SHadoken","order":9,"path":"sprites/SHadoken/SHadoken.yy",},
     {"name":"Tile_58","order":58,"path":"sprites/Tile_58/Tile_58.yy",},
     {"name":"Tile_42","order":42,"path":"sprites/Tile_42/Tile_42.yy",},
