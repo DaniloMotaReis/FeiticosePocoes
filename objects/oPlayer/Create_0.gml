@@ -18,3 +18,6 @@ dcc = 0.3;
 jump_height = 20;
 coyote_time_max = 10;
 coyote_time = 0;
+
+
+global.canshoot = true; 
