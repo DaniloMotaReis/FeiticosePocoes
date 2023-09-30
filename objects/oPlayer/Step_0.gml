@@ -42,12 +42,22 @@ if(key_jump and coyote_time > 0) {
 }
 
 if(key_shoot){
+	if global.canshoot == true{
 	sprite_index = sPlayerA;
 	with (instance_create_layer(_xx,y-10,"Shoot",oTiro)){
 		speed = 10;
 		direction = -180 + 90 * other.image_xscale;
 		image_angle = direction;
+	
+		
+		
+		}
+		
+		global.canshoot = false;
+		alarm [0] = room_speed * 0.3;
+		
 	}
+	
 }
 
 if(key_left){
