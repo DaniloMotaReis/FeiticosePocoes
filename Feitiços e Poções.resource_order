@@ -14,9 +14,9 @@
     {"name":"player_scripts","order":2,"path":"folders/Scripts/player_scripts.yy",},
     {"name":"Shaders","order":4,"path":"folders/Shaders.yy",},
     {"name":"Sons","order":1,"path":"folders/Sons.yy",},
-    {"name":"1 Tiles","order":14,"path":"folders/Sprites/1 Tiles.yy",},
   ],
   "ResourceOrderSettings": [
+<<<<<<< HEAD
     {"name":"Tile_30","order":30,"path":"sprites/Tile_30/Tile_30.yy",},
     {"name":"Tile_14","order":14,"path":"sprites/Tile_14/Tile_14.yy",},
     {"name":"Tile_17","order":17,"path":"sprites/Tile_17/Tile_17.yy",},
@@ -35,30 +35,13 @@
     {"name":"Tile_42","order":42,"path":"sprites/Tile_42/Tile_42.yy",},
     {"name":"Tile_22","order":22,"path":"sprites/Tile_22/Tile_22.yy",},
     {"name":"Tile_48","order":48,"path":"sprites/Tile_48/Tile_48.yy",},
+=======
+>>>>>>> bf963812fbfbe45f467613ae0363604949903f9e
     {"name":"oColisao","order":1,"path":"objects/oColisao/oColisao.yy",},
-    {"name":"Tile_21","order":21,"path":"sprites/Tile_21/Tile_21.yy",},
-    {"name":"Tile_04","order":4,"path":"sprites/Tile_04/Tile_04.yy",},
-    {"name":"Tile_24","order":24,"path":"sprites/Tile_24/Tile_24.yy",},
-    {"name":"Tile_31","order":31,"path":"sprites/Tile_31/Tile_31.yy",},
-    {"name":"sVoldemort","order":7,"path":"sprites/sVoldemort/sVoldemort.yy",},
-    {"name":"Tile_45","order":45,"path":"sprites/Tile_45/Tile_45.yy",},
-    {"name":"Tile_52","order":52,"path":"sprites/Tile_52/Tile_52.yy",},
-    {"name":"Tile_20","order":20,"path":"sprites/Tile_20/Tile_20.yy",},
-    {"name":"Tile_40","order":40,"path":"sprites/Tile_40/Tile_40.yy",},
     {"name":"sPlayerM","order":6,"path":"sprites/sPlayerM/sPlayerM.yy",},
-    {"name":"Tile_12","order":12,"path":"sprites/Tile_12/Tile_12.yy",},
-    {"name":"Tile_15","order":15,"path":"sprites/Tile_15/Tile_15.yy",},
-    {"name":"SExplosao","order":10,"path":"sprites/SExplosao/SExplosao.yy",},
-    {"name":"Tile_49","order":49,"path":"sprites/Tile_49/Tile_49.yy",},
-    {"name":"Tile_38","order":38,"path":"sprites/Tile_38/Tile_38.yy",},
-    {"name":"Tile_60","order":60,"path":"sprites/Tile_60/Tile_60.yy",},
-    {"name":"Tile_28","order":28,"path":"sprites/Tile_28/Tile_28.yy",},
     {"name":"sPlayerP","order":3,"path":"sprites/sPlayerP/sPlayerP.yy",},
-    {"name":"Tile_01","order":1,"path":"sprites/Tile_01/Tile_01.yy",},
-    {"name":"oVoldemort","order":2,"path":"objects/oVoldemort/oVoldemort.yy",},
-    {"name":"Tile_16","order":16,"path":"sprites/Tile_16/Tile_16.yy",},
-    {"name":"Tile_34","order":34,"path":"sprites/Tile_34/Tile_34.yy",},
     {"name":"sColisao","order":2,"path":"sprites/sColisao/sColisao.yy",},
+<<<<<<< HEAD
     {"name":"Tile_06","order":6,"path":"sprites/Tile_06/Tile_06.yy",},
     {"name":"Tile_03","order":3,"path":"sprites/Tile_03/Tile_03.yy",},
     {"name":"Tile_23","order":23,"path":"sprites/Tile_23/Tile_23.yy",},
@@ -99,6 +82,12 @@
     {"name":"Tile_09","order":9,"path":"sprites/Tile_09/Tile_09.yy",},
     {"name":"Tile_56","order":56,"path":"sprites/Tile_56/Tile_56.yy",},
     {"name":"Tile_43","order":43,"path":"sprites/Tile_43/Tile_43.yy",},
+=======
+    {"name":"approach","order":1,"path":"scripts/approach/approach.yy",},
+    {"name":"sPlayerA","order":4,"path":"sprites/sPlayerA/sPlayerA.yy",},
+    {"name":"sPomo","order":7,"path":"sprites/sPomo/sPomo.yy",},
+>>>>>>> bf963812fbfbe45f467613ae0363604949903f9e
     {"name":"sPlayerAT","order":5,"path":"sprites/sPlayerAT/sPlayerAT.yy",},
+    {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
   ],
 }

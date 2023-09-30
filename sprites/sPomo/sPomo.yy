@@ -7,7 +7,11 @@
   "bbox_right": 27,
   "bbox_top": 4,
   "bboxMode": 0,
+<<<<<<< HEAD
   "collisionKind": 1,
+=======
+  "collisionKind": 2,
+>>>>>>> bf963812fbfbe45f467613ae0363604949903f9e
   "collisionTolerance": 0,
   "DynamicTexturePage": false,
   "edgeFiltering": false,
