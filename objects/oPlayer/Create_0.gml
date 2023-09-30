@@ -20,3 +20,5 @@ coyote_time_max = 10;
 coyote_time = 0;
 
 state = player_states_free;
+
+audio_play_sound(snd_tema,10, true);
