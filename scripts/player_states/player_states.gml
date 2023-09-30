@@ -2,12 +2,18 @@ function player_states_free(){
 	var key_left = keyboard_check(ord("A"));
 	var key_right = keyboard_check(ord("D"));
 	var key_jump = keyboard_check_pressed(vk_space);
+	var key_shoot = keyboard_check(ord("E"));
+	
+	var flipped = direction;
+	var gun_x = (x+4) * (flipped);
+	var _xx = x + lengthdir_x(15, image_angle);
+	var y_offset = lengthdir_y(-20, image_angle);
+
 
 	var move = key_right - key_left != 0;
 
 	vspd+=grv;
 	vspd = clamp(vspd,vspd_min,vspd_max);
-
 
 	if(move){
 		sprite_index=sPlayerA
@@ -17,8 +23,7 @@ function player_states_free(){
 		sprite_index=sPlayerP
 		move_spd = approach(move_spd,0,dcc);
 	}
-
-
+	
 	hspd = lengthdir_x(move_spd,move_dir);
 	
 	if (hspd != 0){
@@ -40,24 +45,18 @@ function player_states_free(){
 		vspd = 0;
 		vspd-=jump_height;
 	}
-}
-
-function player_states_atack(){
 	
-	sprite_index = sPlayerA;
-	image_speed = 1;
-
-	var flipped = direction;
-	var gun_x = (x+4) * (flipped);
-	var _xx = x + lengthdir_x(15, image_angle);
-	var y_offset = lengthdir_y(-20, image_angle);
-
-	while (image_index < image_number - 1){
+	if(key_shoot){
+		if (global.canshoot == true){
+		sprite_index = sPlayerAT;
 		with (instance_create_layer(_xx,y-10,"Shoot",oTiro)){
 			speed = 10;
 			direction = -180 + 90 * other.image_xscale;
 			image_angle = direction;
 		}
+		global.canshoot = false;
+		alarm[0] = room_speed * 0.3;
+	}
 	}
 }
 
