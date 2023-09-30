@@ -1,0 +1,1 @@
+oCobra.life--;

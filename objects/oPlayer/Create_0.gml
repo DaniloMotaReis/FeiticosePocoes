@@ -22,3 +22,6 @@ coyote_time = 0;
 
 global.canshoot = true;  
 state = player_states_free;
+
+
+audio_play_sound(snd_tema,10, true);
