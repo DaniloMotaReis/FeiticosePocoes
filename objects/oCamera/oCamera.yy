@@ -9,8 +9,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objetos",
-    "path": "folders/Objetos.yy",
+    "name": "Feitiços e Poções",
+    "path": "Feitiços e Poções.yyp",
   },
   "parentObjectId": null,
   "persistent": false,
