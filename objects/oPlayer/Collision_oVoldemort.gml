@@ -1,4 +1,4 @@
-oVoldemort.life--;
+life--;
 
 
 

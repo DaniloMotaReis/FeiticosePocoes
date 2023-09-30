@@ -21,3 +21,5 @@ coyote_time = 0;
 
 
 global.canshoot = true; 
+global.canshoot = true; 
+state = player_states_free;
